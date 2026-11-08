@@ -1,6 +1,8 @@
 ### Hi, I'm Seohee 😃
-- I’m a Ph.D.-trained behavioural scientist and cognitive neuroscientist with 7+ years of experience designing human research, developing behavioural measures, analyzing complex data, and translating evidence into actionable insights.
-- My expertise is in an interdisciplinary field where psychology, neuroscience, and computer science come together to uncover the mysteries of visual perception.
-- My research focuses on mid-level processes in visual perception, like contours, shapes, curvature, and symmetry, aiming to bridge the gap between basic visual features—like orientation—and the higher-level semantic features that create meaning. I am also interested in exploring the intersection of human vision and AI, pushing the boundaries of cognitive neuroscience and helping to build AI systems that "see" more like humans.
+- I’m a Ph.D.-trained behavioural scientist and cognitive neuroscientist with 8+ years of experience designing and leading research on how people perceive, interpret, and respond to complex information.
+- My work is grounded in a deep understanding of human attention, perception, learning, and decision-making—the same principles that inform human factors, UX research, people analytics, and AI evaluation. I use rigorous experimental design, quantitative research, survey and measure development, statistical modelling, and AI models to answer practical questions about human behaviour and systems.
+- I have direct experience managing research end-to-end: coordinating concurrent studies, developing workflows and documentation, supervising researchers, and communicating findings to technical and non-technical audiences.
+- I’m particularly interested in applying behavioural science to improve how products, teams, and AI systems work for the people who use them.
+
 - My colleagues and I developed analytical tools to capture how these features appear in real-world images. Check this page out!: https://github.com/bwlabToronto/MLV_toolbox
 - All the psychophysics experiment codes are here: https://gitlab.pavlovia.org/seohee.han
